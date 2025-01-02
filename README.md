@@ -1,4 +1,4 @@
-# Gboard 
+# Gboard Project
 ## Project Description 
 ### The Text Transformer is a React-based web application designed for efficient text manipulation. It allows users to convert text between uppercase and lowercase, clear the input field, copy text to the clipboard, and paste content seamlessly. With a clean and user-friendly interface, the tool provides real-time updates and smooth functionality, making it ideal for quick formatting tasks. Built using React.js, it showcases a component-based architecture and clipboard integration for enhanced usability. This project is perfect for developers, writers, or anyone needing fast and simple text editing solutions.
 
@@ -18,4 +18,10 @@
 - **'package.json': Contains metadata about your project (name, version, etc.), lists dependencies, and defines scripts like npm start.**
 
 ## Input of the application
-![dashboard](PowerBI_Dashboard.png)
+![Input image](input.png)
+
+## Output of the application
+![Output image](output.png)
+
+## Deliverables :
+This application successfully converts Uppercase to Lowercase and vice versa.
